@@ -1,0 +1,25 @@
+---
+title: "Materias y calificaciones"
+author: "Yaneth Itzel Díaz Juárez"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+##Lista de materias
+###Otoño 2015
+
+*Programación Actuarial I                9
+*Introducción a la profesión actuarial   7
+*DHPC                                   10
+*Conceptos de Cálculo                   10
+*Matemáticas básicas                     9
+*Problemas de matemáticas básicas        9
+
+
+##Primavera 2016
+*Programación Actuarial II               6
+*Teoría del interés I                    8
+*Formación Humana y Social               9
+*Cálculo Diferencial                     7
+*Geometría Analítica                    10
+*Teoría de ecuaciones                    9
